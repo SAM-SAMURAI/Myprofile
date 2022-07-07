@@ -1,0 +1,13 @@
+1.  display:-   inline
+                block
+                inline-block
+                none
+
+//////////***********/////////////*********///////
+
+2.  position:-  fixed
+                static
+                relative
+                absolute
+
+***************////////////////////******************
